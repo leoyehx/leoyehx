@@ -3,12 +3,12 @@
 I'm Leo, a Physics graduate transitioning into embedded systems.
 
 <a href="https://github.com/leoyehx">
-  <img align=center width="410px" src="https://github-readme-stats.vercel.app/api?username=leoyehx&show_icons=true&theme=nightowl&cache_seconds=86400" />
+  <img align=center width="410px" src="https://github-readme-stats.vercel.app/api?username=leoyehx&show_icons=true&theme=nightowl" />
   <img align=center width="430px" src="https://streak-stats.demolab.com/?user=leoyehx&theme=dark" />
 </a>
 
 <a href="https://github.com/leoyehx">
-  <img align=center width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoyehx&layout=donut&cache_seconds=86400" />
+  <img align=center width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoyehx&layout=donut" />
   <img align=center width="400px" src="https://raw.githubusercontent.com/leoyehx/cf-stats/main/output/light_card.svg" />
 </a>
 
