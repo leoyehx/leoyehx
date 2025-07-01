@@ -3,8 +3,8 @@
 I'm Leo, a Physics graduate transitioning into embedded systems.
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=leoyehx&show_icons=true&theme=nightowl" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=leoyehx\&layout=compact&theme=nightowl" />
+  <img height="142px" src="https://github-readme-stats.vercel.app/api?username=leoyehx&show_icons=true&theme=nightowl" />
+  <img height="142px" src="https://github-readme-stats.vercel.app/api/wakatime?username=leoyehx\&layout=compact&theme=nightowl" />
 </p>
 
 <p align="center">
