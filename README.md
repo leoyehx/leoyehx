@@ -10,10 +10,12 @@ mission-driven domains like aerospace and robotics.
 Extension**
 - Self-learning the following famous courses
   - [Digital Logic Design](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=230) by Prof. Chun-Yao Wang
-  - [Computer Architecture](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=305&}) by Prof. Ting-Ting Hwang
+  - [Computer System](https://csapp.cs.cmu.edu) by Prof. Randal E. Bryant and Prof. David R. O'Hallaron
   - [Linux Kernel Internal](https://wiki.csie.ncku.edu.tw/linux/schedule) by Prof. Jserv
   - [MIT 6.042J (Mathematics for Computer Science)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
   by Prof. Tom Leighton and Dr. Marten van Dijk
+  - [Electric Circuit](https://www.youtube.com/playlist?list=PLHpm7X23eVtI3xn38cdE1vwvw_m1oI_gV) by Prof. TC Lin
+  - [Calculus](https://www.amazon.com/Calculus-Variables-Saturnino-L-Salas/dp/0471698040) by Saturnino L. Salas
 
 - Preparing for Fall 2027 admission to **M.S. in Electrical and Computer
 Engineering** in the U.S.
