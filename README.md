@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Leo
 - A Physics graduate from National Cheng Kung University (NCKU)
-- Currently studying in the **Embedded Systems Engineering Professional
-Certificate Program at UC San Diego Extended Studies**
+- Currently studying in **Embedded Systems Certificate Program at UC San Diego
+Extended Studies**
 
 ## 🚀 My Current Focus
 - Self-learning the following famous courses
