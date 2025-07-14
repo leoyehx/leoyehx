@@ -9,10 +9,9 @@ Extended Studies**
   - [Computer System](https://csapp.cs.cmu.edu) by Prof. Randal E. Bryant and Prof. David R. O'Hallaron
   - [Linux Kernel Internal](https://wiki.csie.ncku.edu.tw/linux/schedule) by Prof. Jserv
   - [Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) by Prof. Gilbert Strang
-  - [Electric Circuit](https://www.youtube.com/playlist?list=PLHpm7X23eVtI3xn38cdE1vwvw_m1oI_gV) by Prof. TC Lin
   - [Calculus](https://www.amazon.com/Calculus-Variables-Saturnino-L-Salas/dp/0471698040) by Saturnino L. Salas
 
-- Preparing for Fall 2027 admission to **M.S. in Electrical Engineering** in the U.S.
+- Preparing for Fall 2027 admission to **M.S. in Computer Engineering** in the U.S.
 
 ## 🛠️ Skills
 - Programming Languages
